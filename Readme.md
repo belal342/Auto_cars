@@ -3,7 +3,7 @@
 A fully responsive, multi-section car dealership website built with pure **HTML5** and **CSS3**.
 No JavaScript. No frameworks. Just clean, hand-crafted code.
 
-![Auto Motors Preview](images/flower.jpg)
+![Auto Motors Preview](images/car.jpg)
 
 ---
 
